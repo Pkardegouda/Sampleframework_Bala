@@ -7,6 +7,7 @@ public class Sample {
 	public void test()
 	{
 		System.out.println("changes done");
+		System.out.println("again changes done");
 		System.out.println("----Script 1-----");
 	}
 
